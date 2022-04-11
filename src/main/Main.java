@@ -13,6 +13,9 @@ public class Main {
 		System.out.println("팀장1");
 		System.out.println("팀장2");
 		
+		System.out.println("팀원1");
+		System.out.println("");
+		
 	}
 
 }
