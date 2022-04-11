@@ -15,7 +15,8 @@ public class Main {
 		
 		System.out.println("팀원1");
 		System.out.println("");
-		
+
+		System.out.println("집에서 일한다");
 	}
 
 }
