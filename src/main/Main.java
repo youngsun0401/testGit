@@ -9,6 +9,9 @@ public class Main {
 		System.out.println("안녕하세요");
 		Calc c = new Calc();
 		System.out.println( c.add(1, 3));
+
+		System.out.println("팀장1");
+		System.out.println("팀장2");
 		
 	}
 
