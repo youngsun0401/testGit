@@ -10,6 +10,9 @@ public class Main {
 		Calc c = new Calc();
 		System.out.println( c.add(1, 3));
 		
+		System.out.println("팀원1");
+		System.out.println("");
+		
 	}
 
 }
